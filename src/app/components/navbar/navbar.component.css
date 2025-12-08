@@ -1,0 +1,9 @@
+.nav-icon {
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+.nav-icon:hover {
+  transform: scale(1.2);
+}
+#mobile-menu {
+  transition: all 0.4s ease-in-out;
+}
