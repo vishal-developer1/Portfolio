@@ -11,7 +11,6 @@ I’m passionate about building dynamic, scalable & high-performance web applica
 ## 🧑‍💻 About Me
 - 💻 Full Stack Developer focusing on **Angular + Java Spring Boot**
 - 🎓 Completed BCA (2023)
-- 📚 Preparing for **NIMCET & UPSC**
 - 🚀 Love working on real-time projects & solving real world problems
 - 🌱 Currently exploring **Microservices, JWT Auth, Cloud & DevOps**
 - 🎯 Goal: Software Engineer at Top MNC
@@ -52,11 +51,7 @@ I’m passionate about building dynamic, scalable & high-performance web applica
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="160"/>
-</p>
+
 
 ---
 
@@ -65,14 +60,7 @@ I’m passionate about building dynamic, scalable & high-performance web applica
 
 ---
 
-## 📫 Connect With Me
 
-<p align="left">
-📍 Maharashtra, India  
-📧 Email: **your-email@gmail.com**  
-🔗 LinkedIn: https://linkedin.com/in/your-link  
-🌐 Portfolio Website: Coming Soon...
-</p>
 
 ---
 
